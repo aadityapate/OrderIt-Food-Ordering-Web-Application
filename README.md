@@ -1,4 +1,4 @@
-# Dynamic Food Ordering Application
+# Dynamic Food Ordering Web-Application
 
 ## Overview
 This project is a dynamic food ordering application designed to provide a seamless user experience for browsing and selecting food items. The app allows users to:
